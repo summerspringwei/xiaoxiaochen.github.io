@@ -85,7 +85,7 @@ work:
     company_url: 'https://eps.leeds.ac.uk/computing'
     company_logo: ''
     date_start: 2023-05-01
-    date_end: 2024-09-31
+    date_end: 2024-09-30
     summary: |
       Research Fellow in Compiler Optimization using Machine Learning and Advised by Prof. Zheng Wang
 
