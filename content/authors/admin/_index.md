@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: 陈潇潇
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chen Xiao Xiao
 
 # Full name (for SEO)
-first_name: Shiung Wu
+first_name: Xiaoxiao
 last_name: Chien
 
 # Status emoji
@@ -24,7 +24,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: University of Heidelburg
     url: https://openai.com/
 
 # Social network links
