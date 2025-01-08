@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Oral Presentation on ASPLOS'24
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: the ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+event_url: https://www.asplos-conference.org/asplos2024/
 
-location: Hugo Blox Builder HQ
+location: San Diego, USA
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Hilton La Jolla Torrey Pines
+  city: San Diego
   region: CA
-  postcode: '94305'
+  postcode: '10950'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Presented my paper accepted at ASPLOS 2024.
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-04-30T14:30:00Z'
+date_end: '2024-04-30T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-08T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Oral Presentation'
   focal_point: Right
 
 #links:

@@ -35,38 +35,36 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research aims at build system softwares that are cost-effective and easy to use.
-        
-        **System for AI**. I am working on building compilers/frameworks to improve the performance of AI applications.
-        This line of research have successfully produced several papers on top level computer science conferences, including
-        [TT4GNN (to be apeared on IPDPS'25)], 
-        [LSMR (on ICCAD'24)](https://2024.iccad.com/accepted-papers),
-        [Souffle (on ASPLOS'24)](https://dl.acm.org/doi/10.1145/3617232.3624858), 
-        [ChaoPIM (on ATS'21)](https://ieeexplore.ieee.org/document/9668221) and
-        [DNNTune on TACO'19](https://dl.acm.org/doi/10.1145/3368305).
+        My research focuses on building system software that is cost-effective and easy to use.  
 
-        **AI for System**. I start using AI to build system software in a cost-effective way from 2023.
-        several important papers were published on 
-        [IPDPS'25], 
-        [ACL'24](https://aclanthology.org/2024.findings-emnlp.55.pdf), 
-        [ICSE'24](https://dl.acm.org/doi/10.1145/3597503.3639212).
-        
-        
-        {{% callout note %}}
-        Fully funded PhD Studentship in [Pattern-aware Parallel Software Development](https://phd.leeds.ac.uk/project/2156-high-level-pattern-aware-parallel-software-development). Apply before 31st January 2025.
-        {{% /callout %}}
+        **Systems for AI**  
+        I am working on developing compilers and frameworks to improve the performance of AI applications. This line of research has successfully produced several papers in top-level computer science conferences, including:  
+        [IPDPS'25], [ICCAD'24](https://2024.iccad.com/accepted-papers), [ASPLOS'24](https://dl.acm.org/doi/10.1145/3617232.3624858),
+        [ATS'21](https://ieeexplore.ieee.org/document/9668221),
+        [TACO'19](https://dl.acm.org/doi/10.1145/3368305).  
 
-        
-        {{% callout note %}}
-        Fully funded PhD Studentship in [Democratise Large Deep Learning Models](https://phd.leeds.ac.uk/project/2008-democratise-large-deep-learning-models)
-        {{% /callout %}}
+        **AI for Systems**  
+        Since 2023, I have been using AI to build system software in a cost-effective way. Several important papers have been published in:  
+        [IPDPS'25](https://www.ipdps.org/2025-announcements.html),
+        [ACL'24](https://aclanthology.org/2024.findings-emnlp.55.pdf),
+        [ICSE'24](https://dl.acm.org/doi/10.1145/3597503.3639212).  
 
-        We are always looking for self-motivated PhD students. 
-        For candidates with good research track record **there are full PhD scholarship**.
-        Feel free to send me an email if you are interested.
+        {{% callout note %}}  
+        Fully funded PhD Studentship in [Pattern-aware Parallel Software Development](https://phd.leeds.ac.uk/project/2156-high-level-pattern-aware-parallel-software-development). Apply before 31st January 2025.  
+        {{% /callout %}}  
+
+        {{% callout note %}}  
+        Fully funded PhD Studentship in [Democratizing Large Deep Learning Models](https://phd.leeds.ac.uk/project/2008-democratise-large-deep-learning-models).  
+        {{% /callout %}}  
+
+        We are always looking for self-motivated PhD students.  
+        For candidates with a good research track record, **full PhD scholarships are available**.  
+        Feel free to email me if you are interested.  
+
+        We are excited to help industry companies solve their real-world problems. Please reach out to collaborate! 😃  
 
 
-        We are excited to help industry companies to solve there real world problems. Please reach out to collaborate 😃
+
     design:
       columns: '1'
   - block: collection
