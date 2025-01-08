@@ -35,11 +35,33 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research aims at build system softwares that are cost-effective and easy to use.
         
-        Please reach out to collaborate 😃
+        **System for AI**. I am working on building compilers/frameworks to improve the performance of AI applications.
+        This line of research have successfully produced several papers on top level computer science conferences, including
+        [TT4GNN (to be apeared on IPDPS'25)], 
+        [LSMR (on ICCAD'24)](https://2024.iccad.com/accepted-papers),
+        [Souffle (on ASPLOS'24)](https://dl.acm.org/doi/10.1145/3617232.3624858), 
+        [ChaoPIM (on ATS'21)](https://ieeexplore.ieee.org/document/9668221) and
+        [DNNTune on TACO'19](https://dl.acm.org/doi/10.1145/3368305).
+
+        **AI for System**. I start using AI to build system software in a cost-effective way from 2023.
+        several important papers were published on 
+        [IPDPS'25], 
+        [ACL'24](https://aclanthology.org/2024.findings-emnlp.55.pdf), 
+        [ICSE'24](https://dl.acm.org/doi/10.1145/3597503.3639212).
+        
+        
+        **Fully funded PhD Studentship in [Pattern-aware Parallel Software Development](https://phd.leeds.ac.uk/project/2156-high-level-pattern-aware-parallel-software-development). Apply before 31st January 2025.**
+
+        **Fully funded PhD Studentship in [Democratise Large Deep Learning Models](https://phd.leeds.ac.uk/project/2008-democratise-large-deep-learning-models)**
+
+        We are always looking for self-motivated PhD students. 
+        For candidates with good research track record **there are full PhD scholarship**.
+        Feel free to send me an email if you are interested.
+
+
+        We are excited to help industry companies to solve there real world problems. Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection

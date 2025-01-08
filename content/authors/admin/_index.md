@@ -146,7 +146,7 @@ awards:
 
 I am a Lecturer (Assistant Professor) at the School of Computer Science at the University of Leeds. 
 I am also a member of the [Distributed Systems and Services Group](https://engineering.leeds.ac.uk/info/201552/our_research/294/distributed_systems_and_services) at Leeds.
-I am a recipient of the **2023 SIGHPC China Doctoral Dissertation Award**.
+I am a recipient of the **2023 ACM SIGHPC China Doctoral Dissertation Award**.
 
 My research broadly covers computer architecture, compilers, heterogeneous computing, distributed systems, and deep learning.
 My current **research interests** include two main areas: (1) building system software using large language models, and (2) creating scalable and cost-effective infrastructures for AI applications: 
