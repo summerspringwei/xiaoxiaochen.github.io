@@ -52,9 +52,14 @@ sections:
         [ICSE'24](https://dl.acm.org/doi/10.1145/3597503.3639212).
         
         
-        **Fully funded PhD Studentship in [Pattern-aware Parallel Software Development](https://phd.leeds.ac.uk/project/2156-high-level-pattern-aware-parallel-software-development). Apply before 31st January 2025.**
+        {{% callout note %}}
+        Fully funded PhD Studentship in [Pattern-aware Parallel Software Development](https://phd.leeds.ac.uk/project/2156-high-level-pattern-aware-parallel-software-development). Apply before 31st January 2025.
+        {{% /callout %}}
 
-        **Fully funded PhD Studentship in [Democratise Large Deep Learning Models](https://phd.leeds.ac.uk/project/2008-democratise-large-deep-learning-models)**
+        
+        {{% callout note %}}
+        Fully funded PhD Studentship in [Democratise Large Deep Learning Models](https://phd.leeds.ac.uk/project/2008-democratise-large-deep-learning-models)
+        {{% /callout %}}
 
         We are always looking for self-motivated PhD students. 
         For candidates with good research track record **there are full PhD scholarship**.
