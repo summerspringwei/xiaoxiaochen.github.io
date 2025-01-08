@@ -118,6 +118,10 @@ skills:
         description: ''
         percent: 100
         icon: camera
+      - name: Basketball
+        description: ''
+        percent: 80
+        icon: 'code-bracket'
 
 languages:
   - name: Chinese
