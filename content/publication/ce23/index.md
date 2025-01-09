@@ -5,11 +5,13 @@ title: "Hydrophobic Interfacing of Fluorescent Membrane Probes"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - José García-Calvo
+
+  - Felix Bayard
   - Xiaoxiao Chen
+  - Juan Manuel García-Arcos
+  - Aurelien Roux
   - Naomi Sakai
   - Stefan Matile
-  - Tomás Torres
   
 date: '2023-10-10T00:00:00Z'
 
