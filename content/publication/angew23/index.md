@@ -31,7 +31,7 @@ publication_url: "https://onlinelibrary.wiley.com/doi/full/10.1002%2Fanie.202217
 
 url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.202217868"
 
-featured: false
+featured: true
 selected_on_front: ["false"]
 projects:
   - []
