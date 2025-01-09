@@ -36,18 +36,19 @@ projects:
 
 abstract: 
   'Nitric oxide (NO) and glutathione (GSH) have
-interplaying roles in oxidant-antioxidant balance. In this work,
-we developed the ﬁrst example of a single ﬂuorescent probe that
-displayed a turn-on ﬂuorescence response toward NO and GSH
-from dual emission channels. The probe was synthesized by
-introducing 4-amino-3-(methylamino)-phenol to a BODIPY
-scaﬀold. Speciﬁcally, the NO-mediated transformation of
-diamine into a triazole triggered the ﬂuorescence in the green
-channel, and the GSH-induced SN Ar substitution reaction led to
-the red-shifted emission in the red channel. The probe was
-successfully applied to detect the exogenous and endogenous
-NO and GSH in macrophage cells. More importantly, the probe
-revealed that NO induced by interferon-γ (IFN-γ), lipopolysaccharide (LPS), and L -arginine (L -Arg) could also elicit the
-augmentation of intracellular GSH. We anticipate the probe would hold great potential for investigating the redox balance in
-biological processes.'
+  interplaying roles in oxidant-antioxidant balance. In this work,
+  we developed the ﬁrst example of a single ﬂuorescent probe that
+  displayed a turn-on ﬂuorescence response toward NO and GSH
+  from dual emission channels. The probe was synthesized by
+  introducing 4-amino-3-(methylamino)-phenol to a BODIPY
+  scaﬀold. Speciﬁcally, the NO-mediated transformation of
+  diamine into a triazole triggered the ﬂuorescence in the green
+  channel, and the GSH-induced SN Ar substitution reaction led to
+  the red-shifted emission in the red channel. The probe was
+  successfully applied to detect the exogenous and endogenous
+  NO and GSH in macrophage cells. More importantly, the probe
+  revealed that NO induced by interferon-γ (IFN-γ), lipopolysaccharide (LPS), and L -arginine (L -Arg) could also elicit the
+  augmentation of intracellular GSH. We anticipate the probe would hold great potential for investigating the redox balance in
+  biological processes.'
+
 ---
