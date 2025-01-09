@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 夏春伟
+title: 陈潇潇
 
 # Name pronunciation (optional)
-name_pronunciation: Xia Chun Wei
+name_pronunciation: Chen Xiao Xiao
 
 # Full name (for SEO)
-first_name: Chunwei
-last_name: Xia
+first_name: Xiaoxiao
+last_name: Chen
 
 # Status emoji
 status:
@@ -20,29 +20,29 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lecturer (Assistant Professor)
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Leeds
-    url: https://www.leeds.ac.uk
+  - name: Heidelberg University 
+    url: https://www.uni-heidelberg.de/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:C.Xia@leeds.ac.uk'
+    url: 'mailto:xiaoxiao.chen@uni-heidelberg.de'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/chx23_10/profilecard
-  - icon: brands/github
-    url: https://github.com/summerspringwei
+    url: https://www.instagram.com/captainchan1994?igsh=bXhpY3djajQxMnpr
+  # - icon: brands/github
+  #   url: https://github.com/summerspringwei
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/春伟-夏-691a9995/
+    url: https://www.linkedin.com/in/xiao-xiao-chen-1b64a427b/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=czBpkssAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=cqTVrj8AAAAJ&hl=en
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
@@ -53,41 +53,43 @@ interests:
   - Compiler Optimization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Institute of Computing Technology, Chinese Academic of Sciences
+  - area: PhD in Organic Chemistry
+    institution: Beijing Normal University
     date_start: 2016-09-01
-    date_end: 2022-12-31
+    date_end: 2021-07-31
     summary: |
-      Thesis on "Research on Programming and Compilation Optimization for Deep Learning Applications".
-      Supervised by [Prof Huimin Cui](https://cuihuimin.github.io) and [Prof Xiaobing Feng](https://people.ucas.ac.cn/~fengxiaobing).
+      Thesis on "Development and biological applications of fluorescent probes for
+          simultaneous detection of nitric oxide (NO) and glutathione (GSH)".
+      Supervised by [Prof. Qingzheng Yang](https://www.x-mol.com/groups/qingzheng_yang) and 
+      [Associate Prof. Liya Niu](https://www.x-mol.com/groups/qingzheng_yang/people/11466).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   
-  - area: BSc Computer Science and Technology
-    institution: Tianjin University
+  - area: BSc in Materials Chemistry
+    institution: Harbin University of Science and Technology
     date_start: 2012-09-01
     date_end: 2016-07-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
     
 work:
-  - position: Lecturer (Assistant Professor)
-    company_name: School of Computer Science, University of Leeds
-    company_url: 'https://eps.leeds.ac.uk/computing'
+  - position: Postdoctoral Fellow
+    company_name: Institute of Pharmacy and Molecular Biotechnology (IPMB), Heidelberg University, Germany
+    company_url: 'https://www.ipmb.uni-heidelberg.de/en'
     company_logo: ''
-    date_start: 2024-10-01
+    date_start: 2024-08-01
     date_end: ''
     summary: |2-
-      Lecturer in the DSS theme.
-  - position: Research Fellow
-    company_name: School of Computer Science, University of Leeds
-    company_url: 'https://eps.leeds.ac.uk/computing'
+      Postdoctoral Fellow advised by [Dr. Murat Sunbul](https://sunbulgroup.com/people).
+  - position: Postdoctoral Fellow
+    company_name: Department of Organic Chemistry, University of Geneva, Switzerland
+    company_url: 'https://www.unige.ch/sciences/chiorg/matile/'
     company_logo: ''
-    date_start: 2023-05-01
-    date_end: 2024-09-30
+    date_start: 2021-09-01
+    date_end: 2024-06-30
     summary: |
-      Research Fellow in Compiler Optimization using Machine Learning and Advised by Prof. Zheng Wang
+      Postdoctoral Fellow adviced by [Stefan Matile](https://www.unige.ch/sciences/chiorg/matile/)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -127,7 +129,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 80
+    percent: 90
 
 
 # Awards.
@@ -135,27 +137,72 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 2023 ACM SIGHPC China Doctoral Dissertation Award
-    url: https://www.acmturc.com/2023/en/mobile/doctoral_thesis_award.html
-    date: '2023-11-25'
-    # awarder: Coursera
+  - title: Excellent Poster Awards
+    url: ''
+    date: '2021-11-25'
+    awarder: Chinese Chemical Society
     # icon: coursera
     summary: |
-      2023 ACM SIGHPC China Doctoral Dissertation Award, Only three recipients of the award in China!
-
+      
+  
+  - title: First-Class Scholarship
+    url: ''
+    date: '2017-11-25'
+    awarder: Beijing Normal University
+    # icon: coursera
+    summary: |
+      Awared three times First-Class Scholarship since 2017
+  
+  - title: Outstanding Graduates
+    url: ''
+    date: '2016-06-25'
+    awarder: Harbin University of Science and Technology
+    # icon: coursera
+    summary: |
+      
+  
+  - title: National Scholarship
+    url: ''
+    date: '2015-10-25'
+    awarder: Ministry of Education of the People's Republic of China
+    # icon: coursera
+    summary: |
+      
+  
+  - title: National Scholarship
+    url: ''
+    date: '2014-10-25'
+    awarder: Ministry of Education of the People's Republic of China
+    # icon: coursera
+    summary: |
+      
+  
+  - title: Provincial Merit Student
+    url: ''
+    date: '2014-10-25'
+    awarder: The Goverment of Heilongjiang Province, China
+    # icon: coursera
+    summary: |
+      
+  
+  - title: National Encouragement Scholarship
+    url: ''
+    date: '2013-10-25'
+    awarder: Ministry of Education of the People's Republic of China
+    # icon: coursera
+    summary: |
+      
+  - title: First-Class Scholarship
+    url: ''
+    date: '2016-11-25'
+    awarder: Harbin University of Science and Technology
+    # icon: coursera
+    summary: |
+      Awared three times First-Class Scholarship since 2013
+      
 ---
 
 ## About Me
 
 
-I am a Lecturer (Assistant Professor) at the School of Computer Science at the University of Leeds. 
-I am also a member of the [Distributed Systems and Services Group](https://engineering.leeds.ac.uk/info/201552/our_research/294/distributed_systems_and_services) at Leeds.
-I am a recipient of the **2023 ACM SIGHPC China Doctoral Dissertation Award**.
-
-My research broadly covers computer architecture, compilers, heterogeneous computing, distributed systems, and deep learning.
-My current **research interests** include two main areas: (1) building system software using large language models, and (2) creating scalable and cost-effective infrastructures for AI applications: 
-
-* **Large Language Model for System Software:** I am interested in how to use the Large Language Model (LLM) to construct compilers and decompilers to optimize programs and lift binary codes effectively.
-
-* **Performant and cost-effective infrastructures for AI applications:** I work to design and implement Deep Learning (DL) Compilers and frameworks to improve the performance and energy efficiency of emerging AI applications on heterogeneous computing platforms.
-
+I am a Postdoctoral Fellow at Institute of Pharmacy and Molecular Biotechnology (IPMB), Heidelberg University, Germany.
